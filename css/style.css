@@ -1,0 +1,43 @@
+
+body{
+    justify-content: center;
+    text-align: center;
+
+}
+
+.div{
+    max-width: 500px;
+    min-height: 500px;
+    margin: 0 auto 0 auto;
+    background-color: antiquewhite;
+
+
+}
+
+.dd{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.logo{
+    border-radius: 5%;
+    border-color: chocolate;
+
+}
+
+.comm{
+    width: 300px;
+    height: 200px;
+    border-radius: 5%;
+    border-color: chocolate;
+
+}
+.button{
+    width: 130px;
+    height: 40px;
+    background-color: chocolate;
+    color: azure;
+    font-size: 17px;
+}
